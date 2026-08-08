@@ -96,6 +96,30 @@ The project provides insights to support **inventory planning, supply decisions,
 
 ---
 
+# 🧠 My Data Analytics Mindset
+
+> **"Data doesn't make decisions. People do. My job is to make the data clear enough to make better ones."**
+
+```text
+               RAW DATA
+                  ↓
+          🧹 CLEAN & PREPARE
+                  ↓
+             🔎 EXPLORE
+                  ↓
+          🗄️ ANALYZE WITH SQL
+                  ↓
+        🐍 ANALYZE WITH PYTHON
+                  ↓
+         📊 VISUALIZE & INSIGHT
+                  ↓
+          💡 BUSINESS IMPACT
+                  ↓
+        🎯 DATA-DRIVEN DECISIONS
+```
+
+---
+
 # 🤝 Let's Collaborate
 
 I'm interested in collaborating on:
