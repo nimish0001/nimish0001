@@ -7,7 +7,7 @@
 # 👨‍💻 About Me
 
 * 📊 **Data Analyst** passionate about transforming data into meaningful business insights.
-* 🏦 **Primary Domain:** Banking & BFSI Analytics
+* 🏦 **Primary Domain:** Banking Analytics
 * 🚚 **Secondary Domain:** Logistics Analytics
 * 🐍 Experienced in **Python, SQL, Power BI & Excel** for data analysis and visualization.
 * 📈 Interested in **Business Intelligence, Data Visualization, Forecasting & KPI Analysis**.
@@ -102,7 +102,7 @@ I'm interested in collaborating on:
 
 📊 **Data Analytics Projects**
 📈 **Business Intelligence Solutions**
-🏦 **Banking & BFSI Analytics**
+🏦 **Banking Analytics**
 🚚 **Logistics & Demand Analytics**
 🐍 **Python & SQL Projects**
 🎯 **Data-Driven Business Problems**
@@ -114,4 +114,3 @@ I'm interested in collaborating on:
 ### ⭐ Thanks for visiting my Data Analytics Portfolio!
 
 </p>
-
