@@ -17,6 +17,7 @@
 * 📈 Interested in **Business Intelligence, Data Visualization, Forecasting & KPI Analysis**.
 * 💡 Focused on solving real-world business problems through **data-driven insights**.
 * 🤝 Open to collaborating on **Data Analytics & Data-Driven Projects**.
+* 📩 **Reach me at:** [nimishjaiswal44@gmail.com](mailto:nimishjaiswal44@gmail.com)
 
 ---
 
@@ -110,18 +111,6 @@ I'm interested in collaborating on:
 🎯 **Data-Driven Business Problems**
 
 If you're working on an interesting **data-driven project**, I'd love to connect and collaborate.
-
----
-
-# 📬 Contact
-
-<p align="center">
-
-<a href="mailto:nimishjaiswal44@gmail.com">
-<img src="https://img.shields.io/badge/Email-nimishjaiswal44%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
