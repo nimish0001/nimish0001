@@ -101,21 +101,21 @@ The project provides insights to support **inventory planning, supply decisions,
 > **"Data doesn't make decisions. People do. My job is to make the data clear enough to make better ones."**
 
 ```text
-               RAW DATA
-                  ↓
-          🧹 CLEAN & PREPARE
-                  ↓
-             🔎 EXPLORE
-                  ↓
-          🗄️ ANALYZE WITH SQL
-                  ↓
-        🐍 ANALYZE WITH PYTHON
-                  ↓
-         📊 VISUALIZE & INSIGHT
-                  ↓
-          💡 BUSINESS IMPACT
-                  ↓
-        🎯 DATA-DRIVEN DECISIONS
+                         RAW DATA
+                            ↓
+                   🧹 CLEAN & PREPARE
+                            ↓
+                         🔎 EXPLORE
+                            ↓
+                   🗄️ ANALYZE WITH SQL
+                            ↓
+                  🐍 ANALYZE WITH PYTHON
+                            ↓
+                   📊 VISUALIZE & INSIGHT
+                            ↓
+                      💡 BUSINESS IMPACT
+                            ↓
+                  🎯 DATA-DRIVEN DECISIONS
 ```
 
 ---
@@ -134,7 +134,5 @@ I'm interested in collaborating on:
 ---
 
 <p align="center">
-
-### ⭐ Thanks for visiting my Data Analytics Portfolio!
-
+  <sub><i>⭐ Thanks for visiting my Data Analytics Portfolio!</i></sub>
 </p>
