@@ -8,19 +8,15 @@
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-I'm **Nimish Jaiswal**, a **Data Analyst** passionate about transforming raw data into meaningful insights and actionable business decisions.
-
-My primary domain is **Banking & BFSI Analytics**, where I focus on understanding customer behavior, business performance, financial trends, and operational KPIs.
-
-My secondary domain is **Logistics Analytics**, where I explore demand, operations, forecasting, and performance-driven insights.
-
-I enjoy working across the complete analytics journey:
-
-**Data → Cleaning → Analysis → Visualization → Insights → Business Decisions**
-
-I'm always interested in collaborating on **data analytics, business intelligence, and data-driven projects** where data can be transformed into real-world impact.
+* 📊 **Data Analyst** passionate about transforming data into meaningful business insights.
+* 🏦 **Primary Domain:** Banking & BFSI Analytics
+* 🚚 **Secondary Domain:** Logistics Analytics
+* 🐍 Experienced in **Python, SQL, Power BI & Excel** for data analysis and visualization.
+* 📈 Interested in **Business Intelligence, Data Visualization, Forecasting & KPI Analysis**.
+* 💡 Focused on solving real-world business problems through **data-driven insights**.
+* 🤝 Open to collaborating on **Data Analytics & Data-Driven Projects**.
 
 ---
 
@@ -77,17 +73,8 @@ I'm always interested in collaborating on **data analytics, business intelligenc
 
 ## 🛒 01 — Retail Sales Analysis
 
-**Turning retail transactions into actionable business insights.**
-
-Analyzed retail sales data to answer real-world business questions around **revenue, product performance, customer behavior, sales trends, and purchasing patterns**.
-
-🔹 SQL-based business analysis
-🔹 Revenue & product performance analysis
-🔹 Customer insights
-🔹 Business-driven SQL questions
-🔹 Data-driven recommendations
-
-**Tech Stack:** `SQL` `MySQL Workbench` `Excel` `GitHub`
+Analyzed retail sales data to uncover insights into **revenue, product performance, customer behavior, and sales trends**.
+Developed business-focused SQL analysis to support **data-driven decision-making**.
 
 🔗 **[View Project →](YOUR_RETAIL_PROJECT_LINK)**
 
@@ -95,19 +82,8 @@ Analyzed retail sales data to answer real-world business questions around **reve
 
 ## 🏦 02 — Relationship Manager Performance Intelligence Dashboard
 
-**Transforming banking performance data into actionable insights.**
-
-Designed a business intelligence dashboard to analyze **Relationship Manager performance, customer engagement, revenue contribution, targets, and key performance indicators**.
-
-The project focuses on helping banking teams identify **top performers, performance gaps, trends, and opportunities for improvement**.
-
-🔹 Banking & BFSI Analytics
-🔹 KPI-driven dashboard
-🔹 Relationship Manager performance
-🔹 Target vs actual analysis
-🔹 Interactive business insights
-
-**Tech Stack:** `Power BI` `Excel` `SQL`
+Built an interactive dashboard to analyze **Relationship Manager performance, targets, revenue contribution, and key banking KPIs**.
+Designed to identify **performance gaps, top performers, and actionable business opportunities**.
 
 🔗 **[View Project →](YOUR_RM_PROJECT_LINK)**
 
@@ -115,88 +91,10 @@ The project focuses on helping banking teams identify **top performers, performa
 
 ## 📦 03 — Demand Forecasting
 
-**Using historical data to anticipate future demand.**
-
-Developed a demand forecasting project to understand historical demand patterns and estimate **future requirements**, helping businesses make better decisions around **inventory, supply planning, and operations**.
-
-🔹 Historical trend analysis
-🔹 Demand pattern identification
-🔹 Forecasting
-🔹 Inventory & supply planning insights
-🔹 Logistics analytics
-
-**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Jupyter`
+Analyzed historical demand patterns to estimate **future demand and identify important trends**.
+The project provides insights to support **inventory planning, supply decisions, and logistics operations**.
 
 🔗 **[View Project →](YOUR_FORECASTING_PROJECT_LINK)**
-
----
-
-# 🎯 Domains
-
-### 🏦 Primary Domain — Banking & BFSI
-
-Customer Analytics • Banking KPIs • Relationship Management • Performance Analytics • Business Intelligence
-
-### 🚚 Secondary Domain — Logistics
-
-Demand Analytics • Forecasting • Operational Analytics • Supply Planning • Performance Insights
-
----
-
-# 💡 What I Bring
-
-<table>
-<tr>
-<td align="center">📊<br><b>Data Analysis</b><br>Finding meaningful patterns</td>
-<td align="center">🗄️<br><b>SQL</b><br>Extracting business insights</td>
-<td align="center">📈<br><b>Visualization</b><br>Making data understandable</td>
-</tr>
-<tr>
-<td align="center">🐍<br><b>Python</b><br>Data processing & analysis</td>
-<td align="center">💼<br><b>Business Thinking</b><br>Solving real problems</td>
-<td align="center">🎯<br><b>Decision Support</b><br>Turning insights into action</td>
-</tr>
-</table>
-
----
-
-# 🧠 Core Skills
-
-```text
-Python          ████████████████████
-SQL             ████████████████████
-Power BI        ████████████████████
-Excel           ████████████████████
-Data Analysis   ████████████████████
-Data Cleaning   ███████████████████░
-EDA             ███████████████████░
-Data Visualization ██████████████████░
-Business Analytics ██████████████████░
-```
-
----
-
-# 📈 My Analytics Mindset
-
-```text
-          RAW DATA
-              ↓
-        🧹 CLEAN & PREPARE
-              ↓
-          🔎 EXPLORE
-              ↓
-        🗄️ ANALYZE WITH SQL
-              ↓
-       🐍 ANALYZE WITH PYTHON
-              ↓
-       📊 VISUALIZE WITH BI
-              ↓
-        💡 FIND INSIGHTS
-              ↓
-       🎯 DRIVE DECISIONS
-```
-
-> **I believe the real value of data is not just in numbers — it's in the decisions those numbers help us make.**
 
 ---
 
@@ -215,7 +113,7 @@ If you're working on an interesting **data-driven project**, I'd love to connect
 
 ---
 
-# 📬 Get In Touch
+# 📬 Contact
 
 <p align="center">
 
@@ -224,8 +122,6 @@ If you're working on an interesting **data-driven project**, I'd love to connect
 </a>
 
 </p>
-
-**📧 Email:** `nimishjaiswal44@gmail.com`
 
 ---
 
