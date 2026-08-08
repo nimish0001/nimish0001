@@ -74,7 +74,7 @@
 Analyzed retail sales data to uncover insights into **revenue, product performance, customer behavior, and sales trends**.
 Developed business-focused SQL analysis to support **data-driven decision-making**.
 
-🔗 **[View Project →]https://github.com/nimish0001/Retail_Sales
+🔗 [View Project →]https://github.com/nimish0001/Retail_Sales
 
 ---
 
@@ -83,7 +83,7 @@ Developed business-focused SQL analysis to support **data-driven decision-making
 Built an interactive dashboard to analyze **Relationship Manager performance, targets, revenue contribution, and key banking KPIs**.
 Designed to identify **performance gaps, top performers, and actionable business opportunities**.
 
-🔗 **[View Project →]https://github.com/nimish0001/RM_PerformanceIntelligenceDashboard-
+🔗 [View Project →]https://github.com/nimish0001/RM_PerformanceIntelligenceDashboard-
 
 ---
 
@@ -92,7 +92,7 @@ Designed to identify **performance gaps, top performers, and actionable business
 Analyzed historical demand patterns to estimate **future demand and identify important trends**.
 The project provides insights to support **inventory planning, supply decisions, and logistics operations**.
 
-🔗 **[View Project →]https://github.com/nimish0001/DemandForecasting
+🔗 [View Project →]https://github.com/nimish0001/DemandForecasting
 
 ---
 
