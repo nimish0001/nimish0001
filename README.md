@@ -2,10 +2,6 @@
 
 ## 📊 Welcome to My Data Analysis Portfolio
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights;Analyzing+Business+Problems+with+Data;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Banking+%7C+Logistics+%7C+Data+Analytics" alt="Typing SVG" />
-</p>
-
 ---
 
 # 👨‍💻 About Me
@@ -65,6 +61,7 @@
 ### 🔗 Version Control & Collaboration
 
 <p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -110,18 +107,11 @@ I'm interested in collaborating on:
 🐍 **Python & SQL Projects**
 🎯 **Data-Driven Business Problems**
 
-If you're working on an interesting **data-driven project**, I'd love to connect and collaborate.
-
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my Data Analysis Portfolio!
-
-**Explore the repositories, check out the projects, and let's turn data into impact. 🚀**
+### ⭐ Thanks for visiting my Data Analytics Portfolio!
 
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2F81F7&style=for-the-badge"/>
-</p>
