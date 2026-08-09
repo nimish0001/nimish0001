@@ -87,17 +87,17 @@ Forecasting helps businesses prepare for changing demand and make better **logis
                             ↓
                    🧹 CLEAN & PREPARE
                             ↓
-                         🔎 EXPLORE
+                      🔎 EXPLORE
                             ↓
-                   🗄️ ANALYZE WITH SQL
+                  🗄️ ANALYZE WITH SQL
                             ↓
-                  🐍 ANALYZE WITH PYTHON
+                 🐍 ANALYZE WITH PYTHON
                             ↓
-                   📊 VISUALIZE & INSIGHT
+                 📊 VISUALIZE & INSIGHT
                             ↓
-                      💡 BUSINESS IMPACT
+                   💡 BUSINESS IMPACT
                             ↓
-                  🎯 DATA-DRIVEN DECISIONS
+                 🎯 DATA-DRIVEN DECISIONS
 ```
 
 ---
