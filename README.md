@@ -111,11 +111,11 @@ The project provides insights to support **inventory planning, supply decisions,
                             ↓
                   🐍 ANALYZE WITH PYTHON
                             ↓
-                   📊 VISUALIZE & INSIGHT
+                  📊 VISUALIZE & INSIGHT
                             ↓
-                      💡 BUSINESS IMPACT
+                   💡 BUSINESS IMPACT
                             ↓
-                  🎯 DATA-DRIVEN DECISIONS
+                 🎯 DATA-DRIVEN DECISIONS
 ```
 
 ---
