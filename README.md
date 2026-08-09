@@ -20,30 +20,28 @@
 # 🛠️ My Analytics Toolkit
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+</p>
 
-<br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -52,28 +50,31 @@
 
 ## 🛒 01 — Retail Sales Analysis
 
-Analyzed retail sales data to uncover insights into **revenue, product performance, customer behavior, and sales trends**.
-Developed business-focused SQL analysis to support **data-driven decision-making**.
+Analyzed retail transaction data to uncover insights into **revenue, product performance, customer behavior, and sales trends**.
+Developed business-focused SQL queries to answer real-world business questions and identify key performance patterns.
+The analysis helps understand **which products and customer segments contribute most to overall sales**.
 
-🔗 **[View Project →](YOUR_RETAIL_PROJECT_LINK)**
+🔗 **[View Project →]https://github.com/nimish0001/Retail_Sales**
 
 ---
 
 ## 🏦 02 — Relationship Manager Performance Intelligence Dashboard
 
-Built an interactive dashboard to analyze **Relationship Manager performance, targets, revenue contribution, and key banking KPIs**.
-Designed to identify **performance gaps, top performers, and actionable business opportunities**.
+Built an interactive **banking performance dashboard** to analyze Relationship Manager performance, targets, revenue contribution, and key KPIs.
+The dashboard provides a clear view of **top performers, performance gaps, target achievement, and customer-related metrics**.
+Designed to help banking teams make **faster and more informed performance-driven decisions**.
 
-🔗 **[View Project →](YOUR_RM_PROJECT_LINK)**
+🔗 **[View Project →]https://github.com/nimish0001/RM_PerformanceIntelligenceDashboard-**
 
 ---
 
 ## 📦 03 — Demand Forecasting
 
-Analyzed historical demand patterns to estimate **future demand and identify important trends**.
-The project provides insights to support **inventory planning, supply decisions, and logistics operations**.
+Analyzed historical demand data to identify **trends, patterns, and fluctuations** and estimate future demand.
+The project provides data-driven insights to support **inventory planning, supply decisions, and operational efficiency**.
+Forecasting helps businesses prepare for changing demand and make better **logistics and resource-planning decisions**.
 
-🔗 **[View Project →](YOUR_FORECASTING_PROJECT_LINK)**
+🔗 **[View Project →]https://github.com/nimish0001/DemandForecasting**
 
 ---
 
