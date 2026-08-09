@@ -19,50 +19,31 @@
 
 # 🛠️ My Analytics Toolkit
 
-### 🐍 Programming & Data Analysis
+<p align="center">
 
-<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### 🗄️ Database & SQL
-
-<p>
 <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
-
-### 📊 Business Intelligence & Visualization
-
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-### 💻 Development & Data Environment
+<br>
 
-<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
 
-### ⚙️ Data Engineering & Cloud
+<br>
 
-<p>
 <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
-
-### 🔗 Version Control & Collaboration
-
-<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </p>
 
 ---
@@ -74,7 +55,7 @@
 Analyzed retail sales data to uncover insights into **revenue, product performance, customer behavior, and sales trends**.
 Developed business-focused SQL analysis to support **data-driven decision-making**.
 
-🔗 [View Project →]https://github.com/nimish0001/Retail_Sales
+🔗 **[View Project →](YOUR_RETAIL_PROJECT_LINK)**
 
 ---
 
@@ -83,7 +64,7 @@ Developed business-focused SQL analysis to support **data-driven decision-making
 Built an interactive dashboard to analyze **Relationship Manager performance, targets, revenue contribution, and key banking KPIs**.
 Designed to identify **performance gaps, top performers, and actionable business opportunities**.
 
-🔗 [View Project →]https://github.com/nimish0001/RM_PerformanceIntelligenceDashboard-
+🔗 **[View Project →](YOUR_RM_PROJECT_LINK)**
 
 ---
 
@@ -92,7 +73,7 @@ Designed to identify **performance gaps, top performers, and actionable business
 Analyzed historical demand patterns to estimate **future demand and identify important trends**.
 The project provides insights to support **inventory planning, supply decisions, and logistics operations**.
 
-🔗 [View Project →]https://github.com/nimish0001/DemandForecasting
+🔗 **[View Project →](YOUR_FORECASTING_PROJECT_LINK)**
 
 ---
 
@@ -105,17 +86,17 @@ The project provides insights to support **inventory planning, supply decisions,
                             ↓
                    🧹 CLEAN & PREPARE
                             ↓
-                      🔎 EXPLORE
+                         🔎 EXPLORE
                             ↓
                    🗄️ ANALYZE WITH SQL
                             ↓
                   🐍 ANALYZE WITH PYTHON
                             ↓
-                  📊 VISUALIZE & INSIGHT
+                   📊 VISUALIZE & INSIGHT
                             ↓
-                   💡 BUSINESS IMPACT
+                      💡 BUSINESS IMPACT
                             ↓
-                 🎯 DATA-DRIVEN DECISIONS
+                  🎯 DATA-DRIVEN DECISIONS
 ```
 
 ---
