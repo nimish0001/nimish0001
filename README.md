@@ -105,7 +105,7 @@ The project provides insights to support **inventory planning, supply decisions,
                             ↓
                    🧹 CLEAN & PREPARE
                             ↓
-                         🔎 EXPLORE
+                      🔎 EXPLORE
                             ↓
                    🗄️ ANALYZE WITH SQL
                             ↓
